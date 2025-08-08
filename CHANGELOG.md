@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/guizimo/said-cli/compare/v1.1.0...v2.0.0) (2025-08-08)
+
+
+### Features
+
+* **docs:** 更新文档以反映最新的功能和修复 ([b81acf1](https://github.com/guizimo/said-cli/commit/b81acf1c1737aaaa83586740d52ad77887eea11e))
+
 ## [1.1.0](https://github.com/guizimo/said-cli/compare/v1.0.0...v1.1.0) (2025-08-08)
 
 
