@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://github.com/SaidCli/said-cli" target="_blank" rel="said-cli"><img src="./static/img/logo.png" alt="said-cli" /></a></p>
+<p align="center"><a href="https://github.com/SaidCli/said-cli" target="_blank" rel="said-cli"><img style="width: 200px; height: 200px;" src="./static/img/logo.png" alt="said-cli" /></a></p>
 
 
 <div align="center">
