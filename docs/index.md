@@ -7,7 +7,7 @@ hero:
   text: "一个快速创建项目模板的脚手架"
   tagline: 丰富的模版，开箱即用
   image:
-    src: /said.svg
+    src: /logo.png
     alt: Said Cli
   actions:
     

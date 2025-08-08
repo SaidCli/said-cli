@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/guizimo/said-cli/compare/v1.0.0...v1.1.0) (2025-08-08)
+
+
+### Features
+
+* **docs:** add guide page ([db8e7d3](https://github.com/guizimo/said-cli/commit/db8e7d391625a6903328e13fe5cc717b044e8b91))
+* **docs:** add search for docs ([223398f](https://github.com/guizimo/said-cli/commit/223398f2880fe6273ca5428c86bc794a14c4209e))
+* **docs:** add template docs ([8d08d40](https://github.com/guizimo/said-cli/commit/8d08d40db9e1aad5d947764cc2877c2f34534135))
+* **docs:** add vitepress docs template ([9596976](https://github.com/guizimo/said-cli/commit/9596976eeb6ad02574cccae54ab1dc7428fe7bae))
+* 删除 README.md 文件及相关图标，更新文档配置以使用新的 logo.png 图标。 ([1af17a8](https://github.com/guizimo/said-cli/commit/1af17a871101458d022014f0c1a6b5638c6c8bb4))
+
+
+### Bug Fixes
+
+* **docs:** fix vite jobs err ([13bdacf](https://github.com/guizimo/said-cli/commit/13bdacf1a8691ce12a78bf0b8ac9cf061a95369f))
+* **docs:** fix vite jobs err by pnpm ([1e0785c](https://github.com/guizimo/said-cli/commit/1e0785c1336a643249a13306757c4e8b2ed53157))
+* **docs:** fix vite jobs err by pnpm ([053f370](https://github.com/guizimo/said-cli/commit/053f370d58807838385b00dd946cb58efcab0afe))
+* **docs:** fix vite jobs err by pnpm ([1040282](https://github.com/guizimo/said-cli/commit/104028237e5c86c3d37427f8371d681d4f126e99))
+* **docs:** fix vitepress router err ([d7ff32b](https://github.com/guizimo/said-cli/commit/d7ff32bfda267b7da3d01d5c3b557f15b37378c8))
+* **docs:** fix vitepress router err ([f6178e4](https://github.com/guizimo/said-cli/commit/f6178e44a717324acecca4081604662eb55c15e3))
+
 ## [1.0.0](https://github.com/guizimo/said-cli/compare/v0.0.14...v1.0.0) (2024-07-23)
 
 ### [0.0.14](https://github.com/guizimo/said-cli/compare/v0.0.13...v0.0.14) (2024-07-23)
