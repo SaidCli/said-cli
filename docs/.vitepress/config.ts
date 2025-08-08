@@ -5,7 +5,7 @@ export default defineConfig({
   base: '/said-cli/',
   title: 'Said Cli',
   description: 'A VitePress Site',
-  head: [['link', { rel: 'icon', href: '/said-cli/said.ico' }]],
+  head: [['link', { rel: 'icon', href: '/said-cli/logo.png' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
