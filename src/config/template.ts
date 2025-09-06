@@ -24,6 +24,10 @@ export const templateMap = [
   {
     name: 'vue3-uniapp-ts',
     value: 'vue3-uniapp-ts'
+  },
+  {
+    name: 'n-admin',
+    value: 'n-admin'
   }
 ];
 
@@ -81,6 +85,18 @@ export const templateList = [
     name: 'vue3-uniapp-ts',
     description: 'Uniapp+Vue3+Ts 基础模板',
     url: 'https://github.com/SaidBaseTemplate/vue3-uniapp-ts.git',
+    successFn: (projectName: string) => {
+      logger.info('Run the following command to start the project:', true);
+      logger.info('', true);
+      logger.info(`cd ${projectName}`, true);
+      logger.info('npm i', true);
+      logger.info('npm run dev', true);
+    }
+  },
+  {
+    name: 'n-admin',
+    description: 'N-Admin 企业级中后台管理系统模板',
+    url: 'https://github.com/Guizimo/n-admin.git',
     successFn: (projectName: string) => {
       logger.info('Run the following command to start the project:', true);
       logger.info('', true);
