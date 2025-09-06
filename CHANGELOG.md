@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.2](https://github.com/guizimo/said-cli/compare/v2.1.1...v2.1.2) (2025-09-06)
+
+
+### Bug Fixes
+
+* **workflow:** 修复 YAML 格式缩进以确保工作流程正常运行 ([80b8fa5](https://github.com/guizimo/said-cli/commit/80b8fa5d3273883db4575b594df302ba7b5c25e7))
+
 ### [2.1.1](https://github.com/guizimo/said-cli/compare/v2.1.0...v2.1.1) (2025-09-06)
 
 
