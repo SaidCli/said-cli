@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/guizimo/said-cli/compare/v2.1.0...v2.1.1) (2025-09-06)
+
+
+### Bug Fixes
+
+* **workflow:** 修改触发条件为所有标签推送以支持更灵活的部署 ([b932cf8](https://github.com/guizimo/said-cli/commit/b932cf85727ff44b240cda5936a45e75e6898c7b))
+
 ## [2.1.0](https://github.com/guizimo/said-cli/compare/v2.0.0...v2.1.0) (2025-09-06)
 
 
