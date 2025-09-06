@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/guizimo/said-cli/compare/v2.0.0...v2.1.0) (2025-09-06)
+
+
+### Features
+
+* **template:** 添加 n-admin 模板及其相关信息 ([13ef05b](https://github.com/guizimo/said-cli/commit/13ef05be20dd5a4f5fdc4a53a882ca634073739f))
+
+
+### Bug Fixes
+
+* **docs:** 调整 README.md 中 logo 图片的样式以改善显示效果 ([4345db5](https://github.com/guizimo/said-cli/commit/4345db5ea50508fc9eb20149575b14e68e0f1672))
+
 ## [2.0.0](https://github.com/guizimo/said-cli/compare/v1.1.0...v2.0.0) (2025-08-08)
 
 
